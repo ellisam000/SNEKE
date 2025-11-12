@@ -53,7 +53,7 @@ title_rect.center = (WINDOW_WIDTH//2, WINDOW_HEIGHT//2) # places the box contain
 #TODO: place the center of continue_rect  to an x coordinate of half the WINDOW_WIDTH and y coordinate of half the WINDOW_HEIGHT + 64
 
 # Set sounds and music
-pick_up_sound = pygame.mixer.Sound("pickup_sound.wav")
+pick_up_sound = pygame.mixer.Sound("pick_up_sound.wav")
 
 # Set images (in this case, use simple rects...so just create their coordinates)
 # For a rectangle you need (top-left x, top-left y, width, height)
